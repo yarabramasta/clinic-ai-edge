@@ -1,0 +1,1532 @@
+[
+  {
+    "name": "Fungal Infection",
+    "slug": "fungal-infection",
+    "symptoms": [
+      {
+        "name": "Itching",
+        "slug": "itching"
+      },
+      {
+        "name": "Skin rash",
+        "slug": "skin-rash"
+      },
+      {
+        "name": "Nodal skin eruptions",
+        "slug": "nodal-skin-eruptions"
+      },
+      {
+        "name": "Dischromic patches",
+        "slug": "dischromic-patches"
+      }
+    ]
+  },
+  {
+    "name": "Allergy",
+    "slug": "allergy",
+    "symptoms": [
+      {
+        "name": "Continuous sneezing",
+        "slug": "continuous-sneezing"
+      },
+      {
+        "name": "Shivering",
+        "slug": "shivering"
+      },
+      {
+        "name": "Chills",
+        "slug": "chills"
+      },
+      {
+        "name": "Watering from eyes",
+        "slug": "watering-from-eyes"
+      }
+    ]
+  },
+  {
+    "name": "GERD",
+    "slug": "gerd",
+    "symptoms": [
+      {
+        "name": "Stomach pain",
+        "slug": "stomach-pain"
+      },
+      {
+        "name": "Acidity",
+        "slug": "acidity"
+      },
+      {
+        "name": "Ulcers on tongue",
+        "slug": "ulcers-on-tongue"
+      },
+      {
+        "name": "Vomiting",
+        "slug": "vomiting"
+      },
+      {
+        "name": "Cough",
+        "slug": "cough"
+      },
+      {
+        "name": "Chest pain",
+        "slug": "chest-pain"
+      }
+    ]
+  },
+  {
+    "name": "Chronic Cholestasis",
+    "slug": "chronic-cholestasis",
+    "symptoms": [
+      {
+        "name": "Itching",
+        "slug": "itching"
+      },
+      {
+        "name": "Vomiting",
+        "slug": "vomiting"
+      },
+      {
+        "name": "Yellowish skin",
+        "slug": "yellowish-skin"
+      },
+      {
+        "name": "Nausea",
+        "slug": "nausea"
+      },
+      {
+        "name": "Loss of appetite",
+        "slug": "loss-of-appetite"
+      },
+      {
+        "name": "Abdominal pain",
+        "slug": "abdominal-pain"
+      },
+      {
+        "name": "Yellowing of eyes",
+        "slug": "yellowing-of-eyes"
+      }
+    ]
+  },
+  {
+    "name": "Drug Reaction",
+    "slug": "drug-reaction",
+    "symptoms": [
+      {
+        "name": "Itching",
+        "slug": "itching"
+      },
+      {
+        "name": "Skin rash",
+        "slug": "skin-rash"
+      },
+      {
+        "name": "Stomach pain",
+        "slug": "stomach-pain"
+      },
+      {
+        "name": "Burning micturition",
+        "slug": "burning-micturition"
+      },
+      {
+        "name": "Spotting  urination",
+        "slug": "spotting-urination"
+      }
+    ]
+  },
+  {
+    "name": "Peptic Ulcer Disease",
+    "slug": "peptic-ulcer-disease",
+    "symptoms": [
+      {
+        "name": "Vomiting",
+        "slug": "vomiting"
+      },
+      {
+        "name": "Indigestion",
+        "slug": "indigestion"
+      },
+      {
+        "name": "Loss of appetite",
+        "slug": "loss-of-appetite"
+      },
+      {
+        "name": "Abdominal pain",
+        "slug": "abdominal-pain"
+      },
+      {
+        "name": "Passage of gases",
+        "slug": "passage-of-gases"
+      },
+      {
+        "name": "Internal itching",
+        "slug": "internal-itching"
+      }
+    ]
+  },
+  {
+    "name": "AIDS",
+    "slug": "aids",
+    "symptoms": [
+      {
+        "name": "Muscle wasting",
+        "slug": "muscle-wasting"
+      },
+      {
+        "name": "Patches in throat",
+        "slug": "patches-in-throat"
+      },
+      {
+        "name": "High fever",
+        "slug": "high-fever"
+      },
+      {
+        "name": "Extra marital contacts",
+        "slug": "extra-marital-contacts"
+      }
+    ]
+  },
+  {
+    "name": "Diabetes",
+    "slug": "diabetes",
+    "symptoms": [
+      {
+        "name": "Fatigue",
+        "slug": "fatigue"
+      },
+      {
+        "name": "Weight loss",
+        "slug": "weight-loss"
+      },
+      {
+        "name": "Restlessness",
+        "slug": "restlessness"
+      },
+      {
+        "name": "Lethargy",
+        "slug": "lethargy"
+      },
+      {
+        "name": "Irregular sugar level",
+        "slug": "irregular-sugar-level"
+      },
+      {
+        "name": "Blurred and distorted vision",
+        "slug": "blurred-and-distorted-vision"
+      },
+      {
+        "name": "Obesity",
+        "slug": "obesity"
+      },
+      {
+        "name": "Excessive hunger",
+        "slug": "excessive-hunger"
+      },
+      {
+        "name": "Increased appetite",
+        "slug": "increased-appetite"
+      },
+      {
+        "name": "Polyuria",
+        "slug": "polyuria"
+      }
+    ]
+  },
+  {
+    "name": "Gastroenteritis",
+    "slug": "gastroenteritis",
+    "symptoms": [
+      {
+        "name": "Vomiting",
+        "slug": "vomiting"
+      },
+      {
+        "name": "Sunken eyes",
+        "slug": "sunken-eyes"
+      },
+      {
+        "name": "Dehydration",
+        "slug": "dehydration"
+      },
+      {
+        "name": "Diarrhoea",
+        "slug": "diarrhoea"
+      }
+    ]
+  },
+  {
+    "name": "Bronchial Asthma",
+    "slug": "bronchial-asthma",
+    "symptoms": [
+      {
+        "name": "Fatigue",
+        "slug": "fatigue"
+      },
+      {
+        "name": "Cough",
+        "slug": "cough"
+      },
+      {
+        "name": "High fever",
+        "slug": "high-fever"
+      },
+      {
+        "name": "Breathlessness",
+        "slug": "breathlessness"
+      },
+      {
+        "name": "Family history",
+        "slug": "family-history"
+      },
+      {
+        "name": "Mucoid sputum",
+        "slug": "mucoid-sputum"
+      }
+    ]
+  },
+  {
+    "name": "Hypertension",
+    "slug": "hypertension",
+    "symptoms": [
+      {
+        "name": "Headache",
+        "slug": "headache"
+      },
+      {
+        "name": "Chest pain",
+        "slug": "chest-pain"
+      },
+      {
+        "name": "Dizziness",
+        "slug": "dizziness"
+      },
+      {
+        "name": "Loss of balance",
+        "slug": "loss-of-balance"
+      },
+      {
+        "name": "Lack of concentration",
+        "slug": "lack-of-concentration"
+      }
+    ]
+  },
+  {
+    "name": "Migraine",
+    "slug": "migraine",
+    "symptoms": [
+      {
+        "name": "Acidity",
+        "slug": "acidity"
+      },
+      {
+        "name": "Indigestion",
+        "slug": "indigestion"
+      },
+      {
+        "name": "Headache",
+        "slug": "headache"
+      },
+      {
+        "name": "Blurred and distorted vision",
+        "slug": "blurred-and-distorted-vision"
+      },
+      {
+        "name": "Excessive hunger",
+        "slug": "excessive-hunger"
+      },
+      {
+        "name": "Stiff neck",
+        "slug": "stiff-neck"
+      },
+      {
+        "name": "Depression",
+        "slug": "depression"
+      },
+      {
+        "name": "Irritability",
+        "slug": "irritability"
+      },
+      {
+        "name": "Visual disturbances",
+        "slug": "visual-disturbances"
+      }
+    ]
+  },
+  {
+    "name": "Cervical Spondylosis",
+    "slug": "cervical-spondylosis",
+    "symptoms": [
+      {
+        "name": "Back pain",
+        "slug": "back-pain"
+      },
+      {
+        "name": "Weakness in limbs",
+        "slug": "weakness-in-limbs"
+      },
+      {
+        "name": "Neck pain",
+        "slug": "neck-pain"
+      },
+      {
+        "name": "Dizziness",
+        "slug": "dizziness"
+      },
+      {
+        "name": "Loss of balance",
+        "slug": "loss-of-balance"
+      }
+    ]
+  },
+  {
+    "name": "Paralysis (brain hemorrhage)",
+    "slug": "paralysis-(brain-hemorrhage)",
+    "symptoms": [
+      {
+        "name": "Vomiting",
+        "slug": "vomiting"
+      },
+      {
+        "name": "Headache",
+        "slug": "headache"
+      },
+      {
+        "name": "Weakness of one body side",
+        "slug": "weakness-of-one-body-side"
+      },
+      {
+        "name": "Altered sensorium",
+        "slug": "altered-sensorium"
+      }
+    ]
+  },
+  {
+    "name": "Jaundice",
+    "slug": "jaundice",
+    "symptoms": [
+      {
+        "name": "Itching",
+        "slug": "itching"
+      },
+      {
+        "name": "Vomiting",
+        "slug": "vomiting"
+      },
+      {
+        "name": "Fatigue",
+        "slug": "fatigue"
+      },
+      {
+        "name": "Weight loss",
+        "slug": "weight-loss"
+      },
+      {
+        "name": "High fever",
+        "slug": "high-fever"
+      },
+      {
+        "name": "Yellowish skin",
+        "slug": "yellowish-skin"
+      },
+      {
+        "name": "Dark urine",
+        "slug": "dark-urine"
+      },
+      {
+        "name": "Abdominal pain",
+        "slug": "abdominal-pain"
+      }
+    ]
+  },
+  {
+    "name": "Malaria",
+    "slug": "malaria",
+    "symptoms": [
+      {
+        "name": "Chills",
+        "slug": "chills"
+      },
+      {
+        "name": "Vomiting",
+        "slug": "vomiting"
+      },
+      {
+        "name": "High fever",
+        "slug": "high-fever"
+      },
+      {
+        "name": "Sweating",
+        "slug": "sweating"
+      },
+      {
+        "name": "Headache",
+        "slug": "headache"
+      },
+      {
+        "name": "Nausea",
+        "slug": "nausea"
+      },
+      {
+        "name": "Diarrhoea",
+        "slug": "diarrhoea"
+      },
+      {
+        "name": "Muscle pain",
+        "slug": "muscle-pain"
+      }
+    ]
+  },
+  {
+    "name": "Chickenpox",
+    "slug": "chickenpox",
+    "symptoms": [
+      {
+        "name": "Itching",
+        "slug": "itching"
+      },
+      {
+        "name": "Skin rash",
+        "slug": "skin-rash"
+      },
+      {
+        "name": "Fatigue",
+        "slug": "fatigue"
+      },
+      {
+        "name": "Lethargy",
+        "slug": "lethargy"
+      },
+      {
+        "name": "High fever",
+        "slug": "high-fever"
+      },
+      {
+        "name": "Headache",
+        "slug": "headache"
+      },
+      {
+        "name": "Loss of appetite",
+        "slug": "loss-of-appetite"
+      },
+      {
+        "name": "Mild fever",
+        "slug": "mild-fever"
+      },
+      {
+        "name": "Swelled lymph nodes",
+        "slug": "swelled-lymph-nodes"
+      },
+      {
+        "name": "Malaise",
+        "slug": "malaise"
+      },
+      {
+        "name": "Red spots over body",
+        "slug": "red-spots-over-body"
+      }
+    ]
+  },
+  {
+    "name": "Dengue",
+    "slug": "dengue",
+    "symptoms": [
+      {
+        "name": "Skin rash",
+        "slug": "skin-rash"
+      },
+      {
+        "name": "Chills",
+        "slug": "chills"
+      },
+      {
+        "name": "Joint pain",
+        "slug": "joint-pain"
+      },
+      {
+        "name": "Vomiting",
+        "slug": "vomiting"
+      },
+      {
+        "name": "Fatigue",
+        "slug": "fatigue"
+      },
+      {
+        "name": "High fever",
+        "slug": "high-fever"
+      },
+      {
+        "name": "Headache",
+        "slug": "headache"
+      },
+      {
+        "name": "Nausea",
+        "slug": "nausea"
+      },
+      {
+        "name": "Loss of appetite",
+        "slug": "loss-of-appetite"
+      },
+      {
+        "name": "Pain behind the eyes",
+        "slug": "pain-behind-the-eyes"
+      },
+      {
+        "name": "Back pain",
+        "slug": "back-pain"
+      },
+      {
+        "name": "Malaise",
+        "slug": "malaise"
+      },
+      {
+        "name": "Muscle pain",
+        "slug": "muscle-pain"
+      },
+      {
+        "name": "Red spots over body",
+        "slug": "red-spots-over-body"
+      }
+    ]
+  },
+  {
+    "name": "Typhoid",
+    "slug": "typhoid",
+    "symptoms": [
+      {
+        "name": "Chills",
+        "slug": "chills"
+      },
+      {
+        "name": "Vomiting",
+        "slug": "vomiting"
+      },
+      {
+        "name": "Fatigue",
+        "slug": "fatigue"
+      },
+      {
+        "name": "High fever",
+        "slug": "high-fever"
+      },
+      {
+        "name": "Headache",
+        "slug": "headache"
+      },
+      {
+        "name": "Nausea",
+        "slug": "nausea"
+      },
+      {
+        "name": "Constipation",
+        "slug": "constipation"
+      },
+      {
+        "name": "Abdominal pain",
+        "slug": "abdominal-pain"
+      },
+      {
+        "name": "Diarrhoea",
+        "slug": "diarrhoea"
+      },
+      {
+        "name": "Toxic look (typhos)",
+        "slug": "toxic-look-(typhos)"
+      },
+      {
+        "name": "Belly pain",
+        "slug": "belly-pain"
+      }
+    ]
+  },
+  {
+    "name": "Hepatitis A",
+    "slug": "hepatitis-a",
+    "symptoms": [
+      {
+        "name": "Joint pain",
+        "slug": "joint-pain"
+      },
+      {
+        "name": "Vomiting",
+        "slug": "vomiting"
+      },
+      {
+        "name": "Yellowish skin",
+        "slug": "yellowish-skin"
+      },
+      {
+        "name": "Dark urine",
+        "slug": "dark-urine"
+      },
+      {
+        "name": "Nausea",
+        "slug": "nausea"
+      },
+      {
+        "name": "Loss of appetite",
+        "slug": "loss-of-appetite"
+      },
+      {
+        "name": "Abdominal pain",
+        "slug": "abdominal-pain"
+      },
+      {
+        "name": "Diarrhoea",
+        "slug": "diarrhoea"
+      },
+      {
+        "name": "Mild fever",
+        "slug": "mild-fever"
+      },
+      {
+        "name": "Yellowing of eyes",
+        "slug": "yellowing-of-eyes"
+      },
+      {
+        "name": "Muscle pain",
+        "slug": "muscle-pain"
+      }
+    ]
+  },
+  {
+    "name": "Hepatitis B",
+    "slug": "hepatitis-b",
+    "symptoms": [
+      {
+        "name": "Itching",
+        "slug": "itching"
+      },
+      {
+        "name": "Fatigue",
+        "slug": "fatigue"
+      },
+      {
+        "name": "Lethargy",
+        "slug": "lethargy"
+      },
+      {
+        "name": "Yellowish skin",
+        "slug": "yellowish-skin"
+      },
+      {
+        "name": "Dark urine",
+        "slug": "dark-urine"
+      },
+      {
+        "name": "Loss of appetite",
+        "slug": "loss-of-appetite"
+      },
+      {
+        "name": "Abdominal pain",
+        "slug": "abdominal-pain"
+      },
+      {
+        "name": "Yellow urine",
+        "slug": "yellow-urine"
+      },
+      {
+        "name": "Yellowing of eyes",
+        "slug": "yellowing-of-eyes"
+      },
+      {
+        "name": "Malaise",
+        "slug": "malaise"
+      },
+      {
+        "name": "Receiving blood transfusion",
+        "slug": "receiving-blood-transfusion"
+      },
+      {
+        "name": "Receiving unsterile injections",
+        "slug": "receiving-unsterile-injections"
+      }
+    ]
+  },
+  {
+    "name": "Hepatitis C",
+    "slug": "hepatitis-c",
+    "symptoms": [
+      {
+        "name": "Fatigue",
+        "slug": "fatigue"
+      },
+      {
+        "name": "Yellowish skin",
+        "slug": "yellowish-skin"
+      },
+      {
+        "name": "Nausea",
+        "slug": "nausea"
+      },
+      {
+        "name": "Loss of appetite",
+        "slug": "loss-of-appetite"
+      },
+      {
+        "name": "Yellowing of eyes",
+        "slug": "yellowing-of-eyes"
+      },
+      {
+        "name": "Family history",
+        "slug": "family-history"
+      }
+    ]
+  },
+  {
+    "name": "Hepatitis D",
+    "slug": "hepatitis-d",
+    "symptoms": [
+      {
+        "name": "Joint pain",
+        "slug": "joint-pain"
+      },
+      {
+        "name": "Vomiting",
+        "slug": "vomiting"
+      },
+      {
+        "name": "Fatigue",
+        "slug": "fatigue"
+      },
+      {
+        "name": "Yellowish skin",
+        "slug": "yellowish-skin"
+      },
+      {
+        "name": "Dark urine",
+        "slug": "dark-urine"
+      },
+      {
+        "name": "Nausea",
+        "slug": "nausea"
+      },
+      {
+        "name": "Loss of appetite",
+        "slug": "loss-of-appetite"
+      },
+      {
+        "name": "Abdominal pain",
+        "slug": "abdominal-pain"
+      },
+      {
+        "name": "Yellowing of eyes",
+        "slug": "yellowing-of-eyes"
+      }
+    ]
+  },
+  {
+    "name": "Hepatitis E",
+    "slug": "hepatitis-e",
+    "symptoms": [
+      {
+        "name": "Joint pain",
+        "slug": "joint-pain"
+      },
+      {
+        "name": "Vomiting",
+        "slug": "vomiting"
+      },
+      {
+        "name": "Fatigue",
+        "slug": "fatigue"
+      },
+      {
+        "name": "High fever",
+        "slug": "high-fever"
+      },
+      {
+        "name": "Yellowish skin",
+        "slug": "yellowish-skin"
+      },
+      {
+        "name": "Dark urine",
+        "slug": "dark-urine"
+      },
+      {
+        "name": "Nausea",
+        "slug": "nausea"
+      },
+      {
+        "name": "Loss of appetite",
+        "slug": "loss-of-appetite"
+      },
+      {
+        "name": "Abdominal pain",
+        "slug": "abdominal-pain"
+      },
+      {
+        "name": "Yellowing of eyes",
+        "slug": "yellowing-of-eyes"
+      },
+      {
+        "name": "Acute liver failure",
+        "slug": "acute-liver-failure"
+      },
+      {
+        "name": "Coma",
+        "slug": "coma"
+      },
+      {
+        "name": "Stomach bleeding",
+        "slug": "stomach-bleeding"
+      }
+    ]
+  },
+  {
+    "name": "Alcoholic Hepatitis",
+    "slug": "alcoholic-hepatitis",
+    "symptoms": [
+      {
+        "name": "Vomiting",
+        "slug": "vomiting"
+      },
+      {
+        "name": "Yellowish skin",
+        "slug": "yellowish-skin"
+      },
+      {
+        "name": "Abdominal pain",
+        "slug": "abdominal-pain"
+      },
+      {
+        "name": "Swelling of stomach",
+        "slug": "swelling-of-stomach"
+      },
+      {
+        "name": "Distention of abdomen",
+        "slug": "distention-of-abdomen"
+      },
+      {
+        "name": "History of alcohol consumption",
+        "slug": "history-of-alcohol-consumption"
+      },
+      {
+        "name": "Fluid overload.1",
+        "slug": "fluid-overload.1"
+      }
+    ]
+  },
+  {
+    "name": "Tuberculosis",
+    "slug": "tuberculosis",
+    "symptoms": [
+      {
+        "name": "Chills",
+        "slug": "chills"
+      },
+      {
+        "name": "Vomiting",
+        "slug": "vomiting"
+      },
+      {
+        "name": "Fatigue",
+        "slug": "fatigue"
+      },
+      {
+        "name": "Weight loss",
+        "slug": "weight-loss"
+      },
+      {
+        "name": "Cough",
+        "slug": "cough"
+      },
+      {
+        "name": "High fever",
+        "slug": "high-fever"
+      },
+      {
+        "name": "Breathlessness",
+        "slug": "breathlessness"
+      },
+      {
+        "name": "Sweating",
+        "slug": "sweating"
+      },
+      {
+        "name": "Loss of appetite",
+        "slug": "loss-of-appetite"
+      },
+      {
+        "name": "Mild fever",
+        "slug": "mild-fever"
+      },
+      {
+        "name": "Yellowing of eyes",
+        "slug": "yellowing-of-eyes"
+      },
+      {
+        "name": "Swelled lymph nodes",
+        "slug": "swelled-lymph-nodes"
+      },
+      {
+        "name": "Malaise",
+        "slug": "malaise"
+      },
+      {
+        "name": "Phlegm",
+        "slug": "phlegm"
+      },
+      {
+        "name": "Chest pain",
+        "slug": "chest-pain"
+      },
+      {
+        "name": "Blood in sputum",
+        "slug": "blood-in-sputum"
+      }
+    ]
+  },
+  {
+    "name": "Common Cold",
+    "slug": "common-cold",
+    "symptoms": [
+      {
+        "name": "Continuous sneezing",
+        "slug": "continuous-sneezing"
+      },
+      {
+        "name": "Chills",
+        "slug": "chills"
+      },
+      {
+        "name": "Fatigue",
+        "slug": "fatigue"
+      },
+      {
+        "name": "Cough",
+        "slug": "cough"
+      },
+      {
+        "name": "High fever",
+        "slug": "high-fever"
+      },
+      {
+        "name": "Headache",
+        "slug": "headache"
+      },
+      {
+        "name": "Swelled lymph nodes",
+        "slug": "swelled-lymph-nodes"
+      },
+      {
+        "name": "Malaise",
+        "slug": "malaise"
+      },
+      {
+        "name": "Phlegm",
+        "slug": "phlegm"
+      },
+      {
+        "name": "Throat irritation",
+        "slug": "throat-irritation"
+      },
+      {
+        "name": "Redness of eyes",
+        "slug": "redness-of-eyes"
+      },
+      {
+        "name": "Sinus pressure",
+        "slug": "sinus-pressure"
+      },
+      {
+        "name": "Runny nose",
+        "slug": "runny-nose"
+      },
+      {
+        "name": "Congestion",
+        "slug": "congestion"
+      },
+      {
+        "name": "Chest pain",
+        "slug": "chest-pain"
+      },
+      {
+        "name": "Loss of smell",
+        "slug": "loss-of-smell"
+      },
+      {
+        "name": "Muscle pain",
+        "slug": "muscle-pain"
+      }
+    ]
+  },
+  {
+    "name": "Pneumonia",
+    "slug": "pneumonia",
+    "symptoms": [
+      {
+        "name": "Chills",
+        "slug": "chills"
+      },
+      {
+        "name": "Fatigue",
+        "slug": "fatigue"
+      },
+      {
+        "name": "Cough",
+        "slug": "cough"
+      },
+      {
+        "name": "High fever",
+        "slug": "high-fever"
+      },
+      {
+        "name": "Breathlessness",
+        "slug": "breathlessness"
+      },
+      {
+        "name": "Sweating",
+        "slug": "sweating"
+      },
+      {
+        "name": "Malaise",
+        "slug": "malaise"
+      },
+      {
+        "name": "Phlegm",
+        "slug": "phlegm"
+      },
+      {
+        "name": "Chest pain",
+        "slug": "chest-pain"
+      },
+      {
+        "name": "Fast heart rate",
+        "slug": "fast-heart-rate"
+      },
+      {
+        "name": "Rusty sputum",
+        "slug": "rusty-sputum"
+      }
+    ]
+  },
+  {
+    "name": "Dimorphic Hemmorhoids (piles)",
+    "slug": "dimorphic-hemmorhoids-(piles)",
+    "symptoms": [
+      {
+        "name": "Constipation",
+        "slug": "constipation"
+      },
+      {
+        "name": "Pain during bowel movements",
+        "slug": "pain-during-bowel-movements"
+      },
+      {
+        "name": "Pain in anal region",
+        "slug": "pain-in-anal-region"
+      },
+      {
+        "name": "Bloody stool",
+        "slug": "bloody-stool"
+      },
+      {
+        "name": "Irritation in anus",
+        "slug": "irritation-in-anus"
+      }
+    ]
+  },
+  {
+    "name": "Heart Attack",
+    "slug": "heart-attack",
+    "symptoms": [
+      {
+        "name": "Vomiting",
+        "slug": "vomiting"
+      },
+      {
+        "name": "Breathlessness",
+        "slug": "breathlessness"
+      },
+      {
+        "name": "Sweating",
+        "slug": "sweating"
+      },
+      {
+        "name": "Chest pain",
+        "slug": "chest-pain"
+      }
+    ]
+  },
+  {
+    "name": "Varicose Veins",
+    "slug": "varicose-veins",
+    "symptoms": [
+      {
+        "name": "Fatigue",
+        "slug": "fatigue"
+      },
+      {
+        "name": "Cramps",
+        "slug": "cramps"
+      },
+      {
+        "name": "Bruising",
+        "slug": "bruising"
+      },
+      {
+        "name": "Obesity",
+        "slug": "obesity"
+      },
+      {
+        "name": "Swollen legs",
+        "slug": "swollen-legs"
+      },
+      {
+        "name": "Swollen blood vessels",
+        "slug": "swollen-blood-vessels"
+      },
+      {
+        "name": "Prominent veins on calf",
+        "slug": "prominent-veins-on-calf"
+      }
+    ]
+  },
+  {
+    "name": "Hypothyroidism",
+    "slug": "hypothyroidism",
+    "symptoms": [
+      {
+        "name": "Fatigue",
+        "slug": "fatigue"
+      },
+      {
+        "name": "Weight gain",
+        "slug": "weight-gain"
+      },
+      {
+        "name": "Cold hands and feets",
+        "slug": "cold-hands-and-feets"
+      },
+      {
+        "name": "Mood swings",
+        "slug": "mood-swings"
+      },
+      {
+        "name": "Lethargy",
+        "slug": "lethargy"
+      },
+      {
+        "name": "Dizziness",
+        "slug": "dizziness"
+      },
+      {
+        "name": "Puffy face and eyes",
+        "slug": "puffy-face-and-eyes"
+      },
+      {
+        "name": "Enlarged thyroid",
+        "slug": "enlarged-thyroid"
+      },
+      {
+        "name": "Brittle nails",
+        "slug": "brittle-nails"
+      },
+      {
+        "name": "Swollen extremeties",
+        "slug": "swollen-extremeties"
+      },
+      {
+        "name": "Depression",
+        "slug": "depression"
+      },
+      {
+        "name": "Irritability",
+        "slug": "irritability"
+      },
+      {
+        "name": "Abnormal menstruation",
+        "slug": "abnormal-menstruation"
+      }
+    ]
+  },
+  {
+    "name": "Hyperthyroidism",
+    "slug": "hyperthyroidism",
+    "symptoms": [
+      {
+        "name": "Fatigue",
+        "slug": "fatigue"
+      },
+      {
+        "name": "Mood swings",
+        "slug": "mood-swings"
+      },
+      {
+        "name": "Weight loss",
+        "slug": "weight-loss"
+      },
+      {
+        "name": "Restlessness",
+        "slug": "restlessness"
+      },
+      {
+        "name": "Sweating",
+        "slug": "sweating"
+      },
+      {
+        "name": "Diarrhoea",
+        "slug": "diarrhoea"
+      },
+      {
+        "name": "Fast heart rate",
+        "slug": "fast-heart-rate"
+      },
+      {
+        "name": "Excessive hunger",
+        "slug": "excessive-hunger"
+      },
+      {
+        "name": "Muscle weakness",
+        "slug": "muscle-weakness"
+      },
+      {
+        "name": "Irritability",
+        "slug": "irritability"
+      },
+      {
+        "name": "Abnormal menstruation",
+        "slug": "abnormal-menstruation"
+      }
+    ]
+  },
+  {
+    "name": "Hypoglycemia",
+    "slug": "hypoglycemia",
+    "symptoms": [
+      {
+        "name": "Vomiting",
+        "slug": "vomiting"
+      },
+      {
+        "name": "Fatigue",
+        "slug": "fatigue"
+      },
+      {
+        "name": "Anxiety",
+        "slug": "anxiety"
+      },
+      {
+        "name": "Sweating",
+        "slug": "sweating"
+      },
+      {
+        "name": "Headache",
+        "slug": "headache"
+      },
+      {
+        "name": "Nausea",
+        "slug": "nausea"
+      },
+      {
+        "name": "Blurred and distorted vision",
+        "slug": "blurred-and-distorted-vision"
+      },
+      {
+        "name": "Excessive hunger",
+        "slug": "excessive-hunger"
+      },
+      {
+        "name": "Drying and tingling lips",
+        "slug": "drying-and-tingling-lips"
+      },
+      {
+        "name": "Slurred speech",
+        "slug": "slurred-speech"
+      },
+      {
+        "name": "Irritability",
+        "slug": "irritability"
+      },
+      {
+        "name": "Palpitations",
+        "slug": "palpitations"
+      }
+    ]
+  },
+  {
+    "name": "Osteoarthritis",
+    "slug": "osteoarthritis",
+    "symptoms": [
+      {
+        "name": "Joint pain",
+        "slug": "joint-pain"
+      },
+      {
+        "name": "Neck pain",
+        "slug": "neck-pain"
+      },
+      {
+        "name": "Knee pain",
+        "slug": "knee-pain"
+      },
+      {
+        "name": "Hip joint pain",
+        "slug": "hip-joint-pain"
+      },
+      {
+        "name": "Swelling joints",
+        "slug": "swelling-joints"
+      },
+      {
+        "name": "Painful walking",
+        "slug": "painful-walking"
+      }
+    ]
+  },
+  {
+    "name": "Arthritis",
+    "slug": "arthritis",
+    "symptoms": [
+      {
+        "name": "Muscle weakness",
+        "slug": "muscle-weakness"
+      },
+      {
+        "name": "Stiff neck",
+        "slug": "stiff-neck"
+      },
+      {
+        "name": "Swelling joints",
+        "slug": "swelling-joints"
+      },
+      {
+        "name": "Movement stiffness",
+        "slug": "movement-stiffness"
+      },
+      {
+        "name": "Painful walking",
+        "slug": "painful-walking"
+      }
+    ]
+  },
+  {
+    "name": "Vertigo",
+    "slug": "vertigo",
+    "symptoms": [
+      {
+        "name": "Vomiting",
+        "slug": "vomiting"
+      },
+      {
+        "name": "Headache",
+        "slug": "headache"
+      },
+      {
+        "name": "Nausea",
+        "slug": "nausea"
+      },
+      {
+        "name": "Spinning movements",
+        "slug": "spinning-movements"
+      },
+      {
+        "name": "Loss of balance",
+        "slug": "loss-of-balance"
+      },
+      {
+        "name": "Unsteadiness",
+        "slug": "unsteadiness"
+      }
+    ]
+  },
+  {
+    "name": "Acne",
+    "slug": "acne",
+    "symptoms": [
+      {
+        "name": "Skin rash",
+        "slug": "skin-rash"
+      },
+      {
+        "name": "Pus filled pimples",
+        "slug": "pus-filled-pimples"
+      },
+      {
+        "name": "Blackheads",
+        "slug": "blackheads"
+      },
+      {
+        "name": "Scurring",
+        "slug": "scurring"
+      }
+    ]
+  },
+  {
+    "name": "Urinary Tract Infection",
+    "slug": "urinary-tract-infection",
+    "symptoms": [
+      {
+        "name": "Burning micturition",
+        "slug": "burning-micturition"
+      },
+      {
+        "name": "Bladder discomfort",
+        "slug": "bladder-discomfort"
+      },
+      {
+        "name": "Foul smell of urine",
+        "slug": "foul-smell-ofurine"
+      },
+      {
+        "name": "Continuous feel of urine",
+        "slug": "continuous-feel-of-urine"
+      }
+    ]
+  },
+  {
+    "name": "Psoriasis",
+    "slug": "psoriasis",
+    "symptoms": [
+      {
+        "name": "Skin rash",
+        "slug": "skin-rash"
+      },
+      {
+        "name": "Joint pain",
+        "slug": "joint-pain"
+      },
+      {
+        "name": "Skin peeling",
+        "slug": "skin-peeling"
+      },
+      {
+        "name": "Silver like dusting",
+        "slug": "silver-like-dusting"
+      },
+      {
+        "name": "Small dents in nails",
+        "slug": "small-dents-in-nails"
+      },
+      {
+        "name": "Inflammatory nails",
+        "slug": "inflammatory-nails"
+      }
+    ]
+  },
+  {
+    "name": "Impetigo",
+    "slug": "impetigo",
+    "symptoms": [
+      {
+        "name": "Skin rash",
+        "slug": "skin-rash"
+      },
+      {
+        "name": "High fever",
+        "slug": "high-fever"
+      },
+      {
+        "name": "Blister",
+        "slug": "blister"
+      },
+      {
+        "name": "Red sore around nose",
+        "slug": "red-sore-around-nose"
+      },
+      {
+        "name": "Yellow crust ooze",
+        "slug": "yellow-crust-ooze"
+      }
+    ]
+  }
+]
